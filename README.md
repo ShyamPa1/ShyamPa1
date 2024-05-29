@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning B.Tech computer science
 
-- 👨‍💻 All of my projects are available at. [projects_list](https://github.com/ShyamPa1)
+- 👨‍💻 All of my projects are available at. [projects_list](https://github.com/ShyamPa1?tab=repositories)
 
 - 🦆 Follow my Kaggle Profile at [https://www.kaggle.com/shyampavann](https://www.kaggle.com/shyampavann)
 
